@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Missymu]]></title>
-        <description><![CDATA[Missymu]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[ Make up artist]]></title>
+        <description><![CDATA[ Make up artist]]></description>
+        <link>https://thegrid.ai/missymu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 06:43:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Dec 2015 06:46:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/missymu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kim Kardashian's Makeup Artist Reveals His Drugstore Beauty Essentials]]></title>
+            <description><![CDATA[<article><h1>Kim Kardashian's Makeup Artist Reveals His Drugstore Beauty Essentials</h1><p>Mario Dedivanovic has been the main makeup artist behind Kim Kardashian's famous face for years, along with her sisters' and an impressive roster of other A-list celebrity clients. As the frontman of Kim's glam squad, Dedivanovic is a regular feature on her app/website, breaking down the reality star's favorite looks in step-by-step tutorials.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82b9ce1fb7b43c90723037dfd9c9cdcef8f19a24.png"></article>]]></description>
+            <link>http://www.harpersbazaar.com/beauty/makeup/a13399/kim-kardashians-makeup-artist-reveals-his-drugstore-beauty-essentials/</link>
+            <guid isPermaLink="false">45f46f81-4ce3-4967-8ea0-b8865604dfb1</guid>
+            <pubDate>Wed, 23 Dec 2015 06:46:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome ]]></title>
-            <description><![CDATA[<h1>Welcome </h1>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <description><![CDATA[<article><h1>Welcome </h1><p>Welcome to Missymu</p></article>]]></description>
+            <link>https://thegrid.ai/missymu/welcome/index.html</link>
             <guid isPermaLink="false">3c4b58cb-056c-498d-ba1a-4af8e5764f38</guid>
             <pubDate>Wed, 23 Dec 2015 06:42:59 GMT</pubDate>
         </item>
