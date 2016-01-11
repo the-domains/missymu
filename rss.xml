@@ -4,7 +4,7 @@
         <description><![CDATA[Missymu]]></description>
         <link>https://thegrid.ai/missymu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 23:38:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jan 2016 23:38:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/missymu/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Love this article]]></title>
@@ -61,6 +61,13 @@
             <link>http://www.harpersbazaar.com/beauty/makeup/a13399/kim-kardashians-makeup-artist-reveals-his-drugstore-beauty-essentials/</link>
             <guid isPermaLink="false">45f46f81-4ce3-4967-8ea0-b8865604dfb1</guid>
             <pubDate>Wed, 23 Dec 2015 06:46:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welcome ]]></title>
+            <description><![CDATA[<article><h1>Welcome </h1><p>Welcome to Missymu</p></article>]]></description>
+            <link>https://thegrid.ai/missymu/welcome/index.html</link>
+            <guid isPermaLink="false">3c4b58cb-056c-498d-ba1a-4af8e5764f38</guid>
+            <pubDate>Wed, 23 Dec 2015 06:42:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
