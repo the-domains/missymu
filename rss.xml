@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Blog]]></title>
-        <description><![CDATA[Blog]]></description>
+        <title><![CDATA[Missymu]]></title>
+        <description><![CDATA[Missymu]]></description>
         <link>https://thegrid.ai/missymu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 07:25:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jan 2016 23:38:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/missymu/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Love this article]]></title>
@@ -35,13 +35,6 @@
             <pubDate>Wed, 23 Dec 2015 06:50:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Testing text right here]]></title>
-            <description><![CDATA[<article><h1>Testing text right here</h1><p>Missymu genious</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/809d4fdd2dad0afd0c34b2dd6ee5d59e5756f89b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/missymu/testing-text-right-here/index.html</link>
-            <guid isPermaLink="false">8ecc2ed3-5c9f-46d3-9742-b8f2e9dad7f9</guid>
-            <pubDate>Wed, 23 Dec 2015 06:49:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[M·A·C Cosmetics Australia Official Site | Ellie Goulding |]]></title>
             <description><![CDATA[<article><h1>M·A·C Cosmetics Australia Official Site | Ellie Goulding |</h1><p>Ellie Goulding, the powerhouse pop goddess, brings her blonde, bold spirit to M*A*C in a collaboration that's as mesmerizing as her music. Inspired by the light and dark dichotomy so present in her artwork and as a performer, Ellie's thoughtfully curated collection emulates her two signature looks: effortless au naturel by day, and breathtaking bombshell by night.</p></article>]]></description>
             <link>http://www.maccosmetics.com.au/whats_new/15846/New-Collections/Ellie-Goulding/index.tmpl?cm_mmc=Facebook-_-Non_Paid-_-New_Collections-_-EllieGoulding</link>
@@ -68,13 +61,6 @@
             <link>http://www.harpersbazaar.com/beauty/makeup/a13399/kim-kardashians-makeup-artist-reveals-his-drugstore-beauty-essentials/</link>
             <guid isPermaLink="false">45f46f81-4ce3-4967-8ea0-b8865604dfb1</guid>
             <pubDate>Wed, 23 Dec 2015 06:46:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome ]]></title>
-            <description><![CDATA[<article><h1>Welcome </h1><p>Welcome to Missymu</p></article>]]></description>
-            <link>https://thegrid.ai/missymu/welcome/index.html</link>
-            <guid isPermaLink="false">3c4b58cb-056c-498d-ba1a-4af8e5764f38</guid>
-            <pubDate>Wed, 23 Dec 2015 06:42:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
